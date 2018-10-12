@@ -1,4 +1,15 @@
 body {
-  color: white;
+  color: cyan;
   background-color: DimGray;
+  font-family: 'Palatino Linotype';
+  font-size: 125%;
+  margin: 5em 25%;
+}
+
+footer {
+  color: cyan;
+  background-color: DimGray;
+  font-family: 'Palatino Linotype';
+  font-size: 75%;
+  margin: 5em 25%;
 }
